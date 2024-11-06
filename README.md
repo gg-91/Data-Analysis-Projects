@@ -1,2 +1,2 @@
 # Data_Analysis_with_R
-# This repository has data analysis projects completed with R. Every project has a HTML file knitted with R markdown containing the code used in a presentable manner.
+# This repository has data analysis projects completed with R. Every project has a HTML file knitted with R markdown containing the code used in a presentable format.
